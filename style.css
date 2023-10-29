@@ -4,12 +4,12 @@ html {
 
 body {
   margin: 0;
-  background: #262A56;
+  background: #262a56;
   overflow-x: hidden;
   font-size: 1rem;
   line-height: 1.8rem;
-  font-family: 'Montserrat', sans-serif;
-  font-family: 'Ubuntu', sans-serif;
+  font-family: "Montserrat", sans-serif;
+  font-family: "Ubuntu", sans-serif;
 }
 
 .container {
@@ -45,7 +45,7 @@ body {
 }
 
 .background {
-  background: #917FB3;
+  background: #917fb3;
   position: fixed;
   right: 0;
   width: 100%;
@@ -60,7 +60,7 @@ body {
 }
 
 .clickable:hover {
-  color: #FFF3E2;
+  color: #00a9ff;
 }
 
 /* Images Container */
@@ -70,7 +70,7 @@ body {
 }
 
 .card {
-  background: #FDE2F3;
+  background: #fde2f3;
   margin: 10px 10px 20px;
   border-radius: 5px;
   box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);
@@ -78,7 +78,7 @@ body {
 }
 
 .card:hover {
-  box-shadow: 0 8px 16px 0 #FDE2F3;
+  box-shadow: 0 8px 16px 0 #fde2f3;
 }
 
 .card-img-top {
